@@ -1,0 +1,6 @@
+add_exp_client:
+  host: http://47.96.23.201
+  path: /go/internal/game/addExp
+add_coin_client:
+  host: http://47.96.23.201
+  path: /go/internal/game/coin

@@ -1,0 +1,6 @@
+add_exp_client:
+  host: "http://api.partystar.private "
+  path: "/go/internal/game/addExp"
+add_coin_client:
+  host: "http://api.partystar.private "
+  path: "/go/internal/game/coin"
